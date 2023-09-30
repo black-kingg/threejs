@@ -1,4 +1,4 @@
-import CanvasModel from "./canvas/canvas";
+import CanvasModel from "./canvas/Canvas";
 import Customizer from "./pages/Customizer";
 import Home from "./pages/Home";
 
